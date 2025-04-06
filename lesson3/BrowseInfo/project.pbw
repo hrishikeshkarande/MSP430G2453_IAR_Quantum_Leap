@@ -1,0 +1,44 @@
+[
+  {
+    "ID": "c:@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "15",
+      "line": "5",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson3\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "7",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson3\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@109@F@main@p_int",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "p_int",
+    "location": {
+      "column": "20",
+      "line": "9",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson3\\main.c"
+    },
+    "name": "p_int",
+    "origin": "project_file",
+    "scope": null
+  }
+]
