@@ -14,13 +14,13 @@
     "scope": null
   },
   {
-    "ID": "c:main.c@26@F@main@counter",
+    "ID": "c:main.c@243@F@main@counter",
     "What": "Variable",
     "defdec": "Def",
     "display": "counter",
     "location": {
       "column": "9",
-      "line": "3",
+      "line": "7",
       "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson1\\main.c"
     },
     "name": "counter",
