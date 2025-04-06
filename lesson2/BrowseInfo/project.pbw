@@ -1,0 +1,58 @@
+[
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "1",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson2\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@234@F@main@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson2\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@256@F@main@odd_var",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "odd_var",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson2\\main.c"
+    },
+    "name": "odd_var",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@278@F@main@even_var",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "even_var",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson2\\main.c"
+    },
+    "name": "even_var",
+    "origin": "project_file",
+    "scope": null
+  }
+]

@@ -16,57 +16,15 @@
         <ShowSource>1</ShowSource>
     </Trace1>
     <DebugChecksum>
-        <Checksum>2807094521</Checksum>
+        <Checksum>3010549541</Checksum>
     </DebugChecksum>
     <Disassembly>
-        <InstrCount>0</InstrCount>
         <MixedMode>1</MixedMode>
+        <InstrCount>0</InstrCount>
     </Disassembly>
     <CallStack>
         <ShowArgs>0</ShowArgs>
     </CallStack>
-    <DriverProfiling>
-        <Enabled>0</Enabled>
-        <Mode>1</Mode>
-        <Graph>0</Graph>
-        <Symbiont>0</Symbiont>
-    </DriverProfiling>
-    <CallStackLog>
-        <Enabled>0</Enabled>
-    </CallStackLog>
-    <CallStackStripe>
-        <ShowTiming>1</ShowTiming>
-    </CallStackStripe>
-    <InterruptLog>
-        <GraphEnabled>0</GraphEnabled>
-        <LogEnabled>0</LogEnabled>
-        <ShowTimeLog>1</ShowTimeLog>
-        <SumEnabled>0</SumEnabled>
-        <ShowTimeSum>1</ShowTimeSum>
-        <SumSortOrder>0</SumSortOrder>
-    </InterruptLog>
-    <DataLog>
-        <GraphEnabled>0</GraphEnabled>
-        <LogEnabled>0</LogEnabled>
-        <ShowTimeLog>1</ShowTimeLog>
-        <SumEnabled>0</SumEnabled>
-        <ShowTimeSum>1</ShowTimeSum>
-    </DataLog>
-    <Interrupts>
-        <Enabled>1</Enabled>
-    </Interrupts>
-    <MemoryMap>
-        <Enabled>0</Enabled>
-        <Base>0</Base>
-        <UseAuto>0</UseAuto>
-        <TypeViolation>1</TypeViolation>
-        <UnspecRange>1</UnspecRange>
-        <ActionState>1</ActionState>
-    </MemoryMap>
-    <Simulator>
-        <Freq>1000000</Freq>
-        <FreqHi>0</FreqHi>
-    </Simulator>
     <EEM_State_Storage>
         <Buffer>010000000300000000000000</Buffer>
     </EEM_State_Storage>
@@ -79,18 +37,6 @@
     <EEM_Cycle_Counter_1>
         <Counter1>0000000000000000000000000000000000000000000000000000000000000000</Counter1>
     </EEM_Cycle_Counter_1>
-    <TermIOLog>
-        <LoggingEnabled>_ 0</LoggingEnabled>
-        <LogFile>_ ""</LogFile>
-    </TermIOLog>
-    <LogFile>
-        <LoggingEnabled>_ 0</LoggingEnabled>
-        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
-        <Category2>_ 2</Category2>
-    </LogFile>
-    <Breakpoints2>
-        <Count>0</Count>
-    </Breakpoints2>
     <FET>
         <Clock_mode>38</Clock_mode>
         <Secure_Password />
@@ -112,8 +58,62 @@
         <all_registers>0</all_registers>
         <File_name />
     </Memory_Dump>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\LogFile1.log"</LogFile>
+        <Category2>_ 2</Category2>
+    </LogFile>
+    <InterruptLog>
+        <GraphEnabled>0</GraphEnabled>
+        <LogEnabled>0</LogEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+        <SumSortOrder>0</SumSortOrder>
+    </InterruptLog>
+    <DataLog>
+        <GraphEnabled>0</GraphEnabled>
+        <LogEnabled>0</LogEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+        <SumEnabled>0</SumEnabled>
+        <ShowTimeSum>1</ShowTimeSum>
+    </DataLog>
+    <Breakpoints2>
+        <Count>0</Count>
+    </Breakpoints2>
+    <Interrupts>
+        <Enabled>1</Enabled>
+    </Interrupts>
+    <MemoryMap>
+        <Enabled>0</Enabled>
+        <Base>0</Base>
+        <UseAuto>0</UseAuto>
+        <TypeViolation>1</TypeViolation>
+        <UnspecRange>1</UnspecRange>
+        <ActionState>1</ActionState>
+    </MemoryMap>
+    <DriverProfiling>
+        <Enabled>0</Enabled>
+        <Mode>1</Mode>
+        <Graph>0</Graph>
+        <Symbiont>0</Symbiont>
+    </DriverProfiling>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
     <Aliases>
         <Count>0</Count>
         <SuppressDialog>0</SuppressDialog>
     </Aliases>
+    <Simulator>
+        <Freq>1000000</Freq>
+        <FreqHi>0</FreqHi>
+    </Simulator>
 </settings>
