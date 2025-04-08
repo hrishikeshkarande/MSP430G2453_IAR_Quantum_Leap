@@ -1,0 +1,100 @@
+[
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "23",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@656@F@main@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "18",
+      "line": "24",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@690@F@main@b",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "b",
+    "location": {
+      "column": "19",
+      "line": "25",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "b",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@725@F@main@c",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "c",
+    "location": {
+      "column": "18",
+      "line": "26",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "c",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@947@F@main@x",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "x",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "x",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@966@F@main@y",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "y",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "y",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@986@F@main@z",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "z",
+    "location": {
+      "column": "9",
+      "line": "39",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson6\\main.c"
+    },
+    "name": "z",
+    "origin": "project_file",
+    "scope": null
+  }
+]
