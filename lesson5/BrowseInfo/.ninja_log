@@ -1,0 +1,27 @@
+# ninja log v5
+2	296	7656496130000000	C:/Users/hrish/Downloads/embedded_programming/lesson1/BrowseInfo/main.xcl	ddb21ac4c00ec23b
+88	430	7656544031474164	C:/Users/hrish/Downloads/embedded_programming/lesson1/BrowseInfo/project.pbw	4b338b849302732f
+0	61	7656544027896021	C:/Users/hrish/Downloads/embedded_programming/lesson1/BrowseInfo/main.pbi	95398cd954b4a19a
+62	86	7656544028156639	C:/Users/hrish/Downloads/embedded_programming/lesson1/BrowseInfo/project.pbd	907191f33fdf517c
+62	362	7656570912036729	C:/Users/hrish/Downloads/embedded_programming/lesson2/BrowseInfo/project.pbw	a0766b2adf86f326
+6	2083	7656546090000000	C:/Users/hrish/Downloads/embedded_programming/lesson2/BrowseInfo/main.xcl	705f377d6642edc7
+0	48	7656570909254092	C:/Users/hrish/Downloads/embedded_programming/lesson2/BrowseInfo/main.pbi	9b7a60d698b1dc10
+64	84	7658166708722292	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/project.pbd	8e45059638741d8c
+50	61	7656570909274275	C:/Users/hrish/Downloads/embedded_programming/lesson2/BrowseInfo/project.pbd	a95149c17bb887a0
+12	198	7656573500000000	C:/Users/hrish/Downloads/embedded_programming/lesson3/BrowseInfo/main.xcl	cb1cb5768ec1876e
+0	59	7656694126245589	C:/Users/hrish/Downloads/embedded_programming/lesson3/BrowseInfo/main.pbi	cc3909d4c42d2f
+106	510	7656694130483220	C:/Users/hrish/Downloads/embedded_programming/lesson3/BrowseInfo/project.pbw	376b1b16dc578213
+71	92	7656694126589123	C:/Users/hrish/Downloads/embedded_programming/lesson3/BrowseInfo/project.pbd	29c6408c5fa7f912
+27	454	7656696450000000	C:/Users/hrish/Downloads/embedded_programming/lesson4/BrowseInfo/main.xcl	e12afe9c6ba3ef6b
+3	76	7658077743120914	C:/Users/hrish/Downloads/embedded_programming/lesson4/BrowseInfo/main.pbi	dc770ddaee74b193
+88	122	7658077743619352	C:/Users/hrish/Downloads/embedded_programming/lesson4/BrowseInfo/project.pbd	fc0ab7d284a27c56
+131	633	7658077748378864	C:/Users/hrish/Downloads/embedded_programming/lesson4/BrowseInfo/project.pbw	65d842f41fd93fb0
+24	397	7658108770000000	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/main.xcl	3e699a6401361221
+1	57	7658166708479640	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/main.pbi	4a5c8ed8c835f10f
+96	505	7658166712682807	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/project.pbw	2306ea50d397a6c8
+1	57	7658170303747998	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/main.pbi	4a5c8ed8c835f10f
+63	86	7658170304073146	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/project.pbd	8e45059638741d8c
+92	539	7658170308320902	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/project.pbw	2306ea50d397a6c8
+1	167	7658171676192826	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/main.pbi	4a5c8ed8c835f10f
+170	193	7658171676420786	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/project.pbd	8e45059638741d8c
+204	614	7658171680378396	C:/Users/hrish/Downloads/embedded_programming/lesson5/BrowseInfo/project.pbw	2306ea50d397a6c8

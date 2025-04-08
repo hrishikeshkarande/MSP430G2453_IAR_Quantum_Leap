@@ -1,0 +1,86 @@
+[
+  {
+    "ID": "c:main.c@768@macro@LED1_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LED1_BIT",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson5\\main.c"
+    },
+    "name": "LED1_BIT",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@805@macro@LED2_BIT",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LED2_BIT",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson5\\main.c"
+    },
+    "name": "LED2_BIT",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@905@macro@P1DIR_ADDR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "P1DIR_ADDR",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson5\\main.c"
+    },
+    "name": "P1DIR_ADDR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@962@macro@P1OUT_ADDR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "P1OUT_ADDR",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson5\\main.c"
+    },
+    "name": "P1OUT_ADDR",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "28",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson5\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@1036@F@main@i",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "i",
+    "location": {
+      "column": "27",
+      "line": "30",
+      "path": "C:\\Users\\hrish\\Downloads\\embedded_programming\\lesson5\\main.c"
+    },
+    "name": "i",
+    "origin": "project_file",
+    "scope": null
+  }
+]
